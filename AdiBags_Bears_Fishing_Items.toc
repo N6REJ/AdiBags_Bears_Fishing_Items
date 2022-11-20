@@ -1,11 +1,11 @@
 ## Interface: 100002
 ## X-Interface: 100002
-## Title: AdiBags Bears Hearthstones
+## Title: AdiBags - Bears Fishing Items
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
-## X-Curse-Project-ID: 704934
-## X-Wago-ID: R4N259GL
+## X-Curse-Project-ID: 707898
+## X-Wago-ID: 
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
