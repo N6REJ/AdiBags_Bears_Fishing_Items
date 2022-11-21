@@ -1,5 +1,5 @@
 # AdiBags Bears Fishing Items
-sorts Fishing Items into their own category.
+Sorts all known Fishing accessory Items into their own category.  Does NOT include fish or bait.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Fishing_Items)
