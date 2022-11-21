@@ -13,7 +13,7 @@ local Expansion = E["Shadowlands"]
 local db = {}
 
 db.name = "Bears Fishing Items"
-db.desc = "Fishing Items"
+db.desc = "All known Fishing Items"
 
 -- Filter info
 db.Filters = {
