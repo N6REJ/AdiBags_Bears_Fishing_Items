@@ -17,15 +17,24 @@ db.desc = "Items that can be used in fishing"
 
 -- Filter info
 db.Filters = {
-   ["Fishing Items"] = {
-      uiName = db.name,
-      uiDesc = db.desc,
-      title = "Fishing Items",
-      items = {
-         -- ID,	--Item name
-         [193529] = true, -- Wildercloth Fishing Cap
-      }
-   }
+	["Fishing Items"] = {
+		uiName = db.name,
+		uiDesc = db.desc,
+		title = "Fishing Items",
+		items = {
+			-- ID,	--Item name
+			[193529] = true, -- Wildercloth Fishing Cap
+		}
+	},
+	["Tools"] = {
+		uiName = "Bears " .. Expansion .. " Tools",
+		uiDesc = "Tools used in " .. Expansion,
+		title = "Tools",
+		items = {
+			-- ID    = true,    --Item name
+			[199696] = true, -- Iskaaran Ice Axe ( used for ice fishing )
+		}
+	}
 }
 
 -- now that db is populated lets pass it on.
