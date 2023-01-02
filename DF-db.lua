@@ -24,6 +24,10 @@ db.Filters = {
 		items = {
 			-- ID,	--Item name
 			[193529] = true, -- Wildercloth Fishing Cap
+			[199696] = true, -- Iskaaran Ice Axe ( used for ice fishing )
+			[199698] = true, -- Irontree Harpoon Handle
+			[199846] = true, -- Seavine Harpoon Rope
+			[383732] = true, -- Tuskarr Tacklebox ( this might be incorrect )
 		}
 	},
 	["Tools"] = {
@@ -33,6 +37,30 @@ db.Filters = {
 		items = {
 			-- ID    = true,    --Item name
 			[199696] = true, -- Iskaaran Ice Axe ( used for ice fishing )
+		}
+	},
+	["Poles"] = {
+		uiName = "Bears " .. Expansion .. " Poles",
+		uiDesc = "Poles used in " .. Expansion,
+		title = "Poles",
+		items = {
+			-- ID    = true,    --Item name
+			[198225] = true, -- Draconium Fisherfriend
+			[198226] = true, -- Khaz'gorite Fisherfriend
+		}
+	},
+	["Lures"] = {
+		uiName = "Bears " .. Expansion .. " Lures",
+		uiDesc = "Lures used in " .. Expansion,
+		title = "Lures",
+		items = {
+			-- ID    = true,    --Item name
+			[198401] = true, -- Aileron Seamoth Lure
+			[193896] = true, -- Cerulean Spinefish Lure
+			[198403] = true, -- Islefin Dorado Lure
+			[193893] = true, -- Scalebelly Mackerel Lure
+			[193895] = true, -- Temporal Dragonhead Lure
+			[193894] = true, -- Thousandbite Piranha Lure
 		}
 	}
 }
