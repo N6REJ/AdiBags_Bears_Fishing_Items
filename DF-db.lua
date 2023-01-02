@@ -27,7 +27,7 @@ db.Filters = {
 			[199696] = true, -- Iskaaran Ice Axe ( used for ice fishing )
 			[199698] = true, -- Irontree Harpoon Handle
 			[199846] = true, -- Seavine Harpoon Rope
-			[383732] = true, -- Tuskarr Tacklebox ( this might be incorrect )
+			[383732] = true, -- Tuskarr Tackle box ( this might be incorrect )
 		}
 	},
 	["Tools"] = {
