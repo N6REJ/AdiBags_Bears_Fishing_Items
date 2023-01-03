@@ -28,15 +28,7 @@ db.Filters = {
 			[199698] = true, -- Irontree Harpoon Handle
 			[199846] = true, -- Seavine Harpoon Rope
 			[383732] = true, -- Tuskarr Tackle box ( this might be incorrect )
-		}
-	},
-	["Tools"] = {
-		uiName = "Bears " .. Expansion .. " Tools",
-		uiDesc = "Tools used in " .. Expansion,
-		title = "Tools",
-		items = {
-			-- ID    = true,    --Item name
-			[199696] = true, -- Iskaaran Ice Axe ( used for ice fishing )
+			[199694] = true, -- Flying Fish Bone Charm
 		}
 	},
 	["Poles"] = {
