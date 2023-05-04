@@ -6,6 +6,7 @@
 ## X-License: MIT
 ## X-Curse-Project-ID: 707898
 ## X-Wago-ID: yQKy7BN7
+## IconTexture: Interface\Icons\Ui-gearmanager-itemintobag
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
