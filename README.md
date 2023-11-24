@@ -7,7 +7,7 @@ Sorts all known Fishing accessory Items into their own category.  Does NOT inclu
 [![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Fishing_Items.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Fishing_Items/releases/)
 
 ![Bears](https://img.shields.io/badge/Supports-Shadowlands&nbsp;&amp;&nbsp;Dragonflight-0B68D7)
-![10.0.0](https://img.shields.io/badge/Ready_for-10.0.2-darkgreen)
+![10.0.0](https://img.shields.io/badge/Ready_for-10.2.0-darkgreen)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-707898-purple)](https://www.curseforge.com/wow/addons/adibags_Fishing_Items)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
